@@ -1,0 +1,7 @@
+STATUS | wrapper  | 2019/08/21 19:39:45 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2019/08/21 19:39:45 | Java Service Wrapper Community Edition 64-bit 3.5.40
+STATUS | wrapper  | 2019/08/21 19:39:45 |   Copyright (C) 1999-2019 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2019/08/21 19:39:45 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2019/08/21 19:39:45 | 
+STATUS | wrapper  | 2019/08/21 19:39:46 | Launching a JVM...
+INFO   | jvm 1    | 2019/08/21 19:39:46 | WrapperManager: Initializing...
